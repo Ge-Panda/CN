@@ -1,0 +1,61 @@
+﻿{
+  "champ": [
+    "Ashe/寒冰",
+    "Caitlyn/女警",
+    "Corki /飞机",
+    "Draven /德莱文",
+    "Ezreal /EZ",
+    "Graves /男枪",
+    "Jhin /烬",
+    "Jinx /金克斯",
+    "Kalista /滑板鞋",
+    "Kog`Maw /大嘴",
+    "Lucian /奥巴马",
+    "Miss Fortune /赏金",
+    "Sivir /轮子妈",
+    "Tristana /炮娘",
+    "Twitch /老鼠",
+    "Varus /韦鲁斯",
+    "Vayne /薇恩",
+    "Xayah /霞",
+    "Ahri /阿狸",
+    "Brand /火男",
+    "Cassiopeia /蛇女",
+    "Jayce /杰斯",
+    "Karthus /死哥",
+    "Kayle /天使",
+    "Orianna /发条",
+    "Ryze /瑞兹",
+    "Syndra /黑暗元首",
+    "Twisted Fate /卡牌",
+    "Vel'Koz /大眼",
+    "Viktor /三只手",
+    "Xerath /三炮",
+    "Yasuo /亚索",
+    "Zed /劫",
+    "Zoe /佐伊",
+    "Nasus /狗头",
+    "Teemo /提莫",
+    "Urgot /螃蟹",
+    "Xin Zhao /赵信",
+    "Kindred /千钰",
+    "Master Yi /易大师",
+    "Blitzcrank/机器人",
+    "Leona /日女",
+    "Lulu /璐璐",
+    "Morgana /摩甘那",
+    "Thresh /锤石"
+  ],
+  "core": [
+    {
+      "Type": "CN",
+      "Version": "7.24",
+      "Checksum": "db68820b5d418aff77a33b8628c71198"
+    },
+    {
+      "Type": "Other",
+      "Version": "8.1",
+      "Checksum": "454f987cb79adcde225e2ca55be54d2b"
+    }
+  ]
+}
